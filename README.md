@@ -1,6 +1,5 @@
 # test5
 #饥人谷习题预览
-<!DOCTYPE html>
 <html>
 
 <head>
